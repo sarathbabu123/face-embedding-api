@@ -3,3 +3,4 @@ facenet-pytorch
 torch
 numpy
 opencv-python
+gunicorn
